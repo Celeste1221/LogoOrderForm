@@ -1,5 +1,5 @@
-# LogoOrderForm-C-Sharp
-A windows form for creating orders for a promotional products company
+# LogoOrderForm
+A windows form using C# for creating orders for a promotional products company
 
 Spec:
 Create a simple windows form application that sales personnel can use to put together logo item orders.   
